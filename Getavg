@@ -1,0 +1,10 @@
+var arr= [2,10,3];
+
+function avg(arr){
+  var x= [0];
+  for(i=0;i <= array.length;i++){
+    var len = array.length;
+    var sum = x + i;
+    var average = sum/array.length;} {
+    console.log("average is " + average);}
+}
